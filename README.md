@@ -1,1 +1,1 @@
-# kanapin-timur.github.io
+# Для запуска проекта необходимо перейти по ссылке kanapin-timur.github.io
